@@ -1,5 +1,5 @@
 # CODSOFT-Task-1
-UI/UX Design Task 1 at Codsoft
+UI/UX Design Intern Task 1 at Codsoft
 
 Task: Create a Mobile App Signup Flow
 
